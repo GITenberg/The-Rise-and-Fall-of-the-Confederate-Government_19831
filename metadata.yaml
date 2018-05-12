@@ -1,0 +1,47 @@
+_repo: The-Rise-and-Fall-of-the-Confederate-Government_19831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davis, Jefferson
+    birthdate: 1808
+    deathdate: 1889
+    gutenberg_agent_id: '1741'
+    url: http://www.gutenberg.org/2009/agents/1741
+    wikipedia: http://en.wikipedia.org/wiki/Jefferson_Davis
+description: "The Rise and Fall of the Confederate Government (1881) is a book written\
+  \ by Jefferson Davis, who served as President of the Confederate States of America\
+  \ during the American Civil War. Davis wrote the book as a straightforward history\
+  \ of the Confederate States of America and as an apologia for the causes that he\
+  \ believed led to and justified the American Civil War.\nHe wrote most of the book\
+  \ at Beauvoir, the Biloxi, Mississippi plantation where he was living as a guest\
+  \ of the novelist and wealthy widow Sarah Ellis Dorsey. Ill with cancer, in 1878\
+  \ she made over her will and left the plantation to him before her death in 1879.\
+  \ She had already assisted him in his writing, notably with organization, editing\
+  \ and encouragement.\nDavis was also assisted by his wife, Varina, and his secretary\
+  \ Major W.T. Walthall. He corresponded voluminously with surviving Confederate statesmen\
+  \ and generals, including Judah Benjamin and Jubal Early, for fact checking and\
+  \ details on key issues.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19831'
+  wikidata: Q7760876
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America -- History'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: The Rise and Fall of the Confederate Government, Volume 1
+url: http://www.gutenberg.org/ebooks/19831
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%B8%D9%87%D9%88%D8%B1_%D9%88_%D8%A7%D9%81%D9%88%D9%84_%D8%AF%D9%88%D9%84%D8%AA_%DA%A9%D9%86%D9%81%D8%AF%D8%B1%D8%A7%D8%B3%DB%8C%D9%88%D9%86
+- https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Confederate_Government
+- https://it.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Confederate_Government
