@@ -24,6 +24,8 @@ description: "The Rise and Fall of the Confederate Government (1881) is a book w
   \ Major W.T. Walthall. He corresponded voluminously with surviving Confederate statesmen\
   \ and generals, including Judah Benjamin and Jubal Early, for fact checking and\
   \ details on key issues.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19831#The-Rise-and-Fall-of-the-Confederate-Government
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-11-16'
 gutenberg_type: Text
